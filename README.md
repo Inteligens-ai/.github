@@ -10,9 +10,9 @@
 
 Nossa abordagem é guiada por três pilares fundamentais:
 
-* **Pragmatismo:** Foco em soluções que resolvem problemas reais e geram impacto mensurável. (Ícone: ⚙️)
-* **Profundidade:** Ir além do superficial, entendendo a raiz dos desafios de negócio. (Ícone: 🔎)
-* **Precisão:** A arte da execução técnica, construindo soluções elegantes, eficientes e preparadas para o futuro. (Ícone: 🎯)
+* **Pragmatismo:** Foco em soluções que resolvem problemas reais e geram impacto mensurável. ⚙️
+* **Profundidade:** Ir além do superficial, entendendo a raiz dos desafios de negócio. 🔎
+* **Precisão:** A arte da execução técnica, construindo soluções elegantes, eficientes e preparadas para o futuro. 🎯
 
 ---
 
